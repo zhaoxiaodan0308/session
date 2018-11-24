@@ -22,5 +22,6 @@ public class AdUserClickCountQueryResult {
 	public void setClickCount(int clickCount) {
 		this.clickCount = clickCount;
 	}
+
 	
 }
